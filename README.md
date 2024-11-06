@@ -26,11 +26,18 @@
 
 ###
 
-<h3 align="left">Tecnologias que uso no meu dia.</h3>
+<br>
+<br>
+
+![anime-hacking](https://github.com/user-attachments/assets/a4059763-f625-403f-b9aa-f703fb0a5756)
+
 
 ###
+<br>
+<h3 align="left">Tecnologias que uso no meu dia.</h3>
+<br>
+<br>
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/anime-hacking-keyboard-typing-fast-typing-gif-17794715](https://tenor.com/view/anime-hacking-keyboard-typing-fast-typing-gif-17794715)"  />
 
 ###
 
@@ -60,11 +67,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RastaDados/RastaDados/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
-<br>
-<br>
 <h3 align="left">Portfólio</h3>
 
 ###
