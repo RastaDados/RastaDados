@@ -1,4 +1,4 @@
-<h2 align="left">Olá me chamo Mateus França! Um analista de dados completamente apaixonado por tecnologia!</h2>
+<h1 align="left">Olá me chamo Mateus França! Um analista de dados completamente apaixonado por tecnologia!</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 <br>
-<h3 align="left">Tecnologias que uso no meu dia.</h3>
+<h2 align="left">Tecnologias que uso no meu dia</h2>
 <br>
 <br>
 
