@@ -1,75 +1,71 @@
-n<h1 align="left">Olá me chamo Mateus França! Um analista de dados completamente apaixonado por tecnologia!</h1>
-
-###
-
-<div align="center">
+<h3>“O produto mais valioso que conheço é a informação.” 😎 </h3>
+<div align="left">
   <a href="https://www.youtube.com/@lobodominiindice4099" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/channels/rasta_dados" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/2/?ogbl#inbox?compose=CllgCJZZxwlCclvMBjMmGltwjChvrXncgBfpRJcbCtqFxQmKBrDvHGPLLRggzNPbGqLjSvfpddV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-de-vasconcelos-775b57113/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RastaDados&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RastaDados&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br>
 <br>
 
 ![anime-hacking](https://github.com/user-attachments/assets/a4059763-f625-403f-b9aa-f703fb0a5756)
 
+<h2 align="left">Olá me chamo Mateus França! Um analista de dados completamente apaixonado por tecnologia!</h2>
+Analista de BI com foco nos processos de coleta, tratamento e criação de Dashboards, KPIS e indicadores que são necessários á tomada de decisão, e aos demais processos que apoie e auxilie minha equipe na evolução dos dados e insights.
+<hr>
 
-###
-<br>
-<h2 align="left">Tecnologias que uso no meu dia</h2>
-<br>
-<br>
-
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RastaDados&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RastaDados&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+<br>
+<h3 align="left"> 🚀 Linguagens e Ferramentas</h3>
+<hr>
+<h4>💻 Uso diário:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="22" alt="power_bi logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="22" alt="excell logo"  />
+  <img width="12" />
+<hr>
+<h4>📚 Tenho conhecimento:</h4>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="22" alt="micros_sql logo"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="22" alt="postgre logo"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="22" alt="sqlite logo"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" alt="AWS logo"  />
+<img width="12" />
+<hr>
+<h4>🌱 Estou aprendendo:</h4>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="22" alt="google_cloud logo"  />
+<img width="12" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="22" alt="azure logo"  />
+<img width="12" />
+<hr>  
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Cobrinha" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<h2 align="left">Portfólio</h2>
 
-###
-<h3 align="left">Portfólio</h3>
 
-###
+ 
+
+  
+</div>
