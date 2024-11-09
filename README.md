@@ -22,11 +22,17 @@
 Analista de BI com foco nos processos de coleta, tratamento e criação de Dashboards, KPIS e indicadores que são necessários á tomada de decisão, e aos demais processos que apoie e auxilie minha equipe na evolução dos dados e insights.
 <hr>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RastaDados&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RastaDados&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
+<h4>📈 Estatísticas:</h4>
+
+<div display:flex align="left">
+<img src="https://github-readme-stats.vercel.app/api/?username=RastaDados&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="140" alt="stats graph" /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastaDados&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark" height="140" alt="repositorios" />
+</div>
+
+<h4>⚡ Principais Repositórios: </h4>
+<div display:flex align="left">
+
 </div>
 
 <br>
