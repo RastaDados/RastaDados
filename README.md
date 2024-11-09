@@ -30,12 +30,9 @@ Analista de BI com foco nos processos de coleta, tratamento e criação de Dashb
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastaDados&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark" height="140" alt="repositorios" />
 </div>
 
-<h4>⚡ Principais Repositórios: </h4>
-<div display:flex align="left">
-
-</div>
-
 <br>
+<br>
+
 <h3 align="left"> 🚀 Linguagens e Ferramentas</h3>
 <hr>
 <h4>💻 Uso diário:</h4>
