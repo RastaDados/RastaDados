@@ -18,7 +18,7 @@
 
 ![anime-hacking](https://github.com/user-attachments/assets/a4059763-f625-403f-b9aa-f703fb0a5756)
 
-<h2 align="left">Olá me chamo Mateus França! Um analista de dados completamente apaixonado por tecnologia!</h2>
+<h2 align="left">Olá me chamo Mateus França! Um analista de dados onde vê na informação a verdade do mundo!</h2>
 Analista de BI com foco nos processos de coleta, tratamento e criação de Dashboards, KPIS e indicadores que são necessários á tomada de decisão, e aos demais processos que apoie e auxilie minha equipe na evolução dos dados e insights.
 <hr>
 
