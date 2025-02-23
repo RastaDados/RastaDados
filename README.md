@@ -69,7 +69,7 @@ Analista de BI com foco nos processos de coleta, tratamento e criação de Dashb
 
 <h1 align="left">⚡ Portfólio</h1>
 
-<h3><a href="https://jshshsnsn.wixsite.com/meuportfoliodedados" target="_blank" > Acesse o Portólio </a></h3>
+<h3><a href="https://jshshsnsn.wixsite.com/meuportfoliodedados" target="_blank"> Acesse o Portólio </a></h3>
 
 </div>
 
